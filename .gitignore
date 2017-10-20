@@ -1,0 +1,9 @@
+.*
+*.pyc
+*.sqlite3
+
+/media
+/static
+*.db
+*.*~
+safe_url_shortener/settings.py
